@@ -1,0 +1,21 @@
+{
+  "name": "stackblitz-starters-d2zk4d",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@cimpress/react-components": "16.6.0",
+    "lodash": "^4.17.21",
+    "moment": "2.29.4",
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
